@@ -4,7 +4,7 @@ class MyClass:
         self.param = param
 
     def print_param(self):
-        print(self.param+1)
+        print(self.param+222)
 
 
 my_instance = MyClass(5)
